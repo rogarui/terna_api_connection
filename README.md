@@ -21,13 +21,13 @@ terna_api(token, ini_date, end_date, type_code) allows to download the data from
   - token, by using get_terna_token() function
   - ini_date, initial date to download data
   - end_date, end date to download data
-  - type_code, Terna has 3sections in their API:
-  			+Load:
- 						- tal Load
-  					- rket Load
-  					- eak-Valley Load
-  					- Peak-Valley Load Details
- 				+ eneration:
- 				+ ransmision:
+  - type_code, Terna has 3 sections in their API: Load, Generation and Transminission.
+
+### Load
+
+### Generation 
+
+### Transmission
+  			
 
 
